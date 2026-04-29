@@ -1,0 +1,4 @@
+#install
+
+library(devtools)
+install_github("ericamerici/packagexample")
