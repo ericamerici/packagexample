@@ -1,3 +1,3 @@
 # pacchetto_esempio
 
-This is a package created at Rocchini's class
+This is a package developed in Rocchini's class
